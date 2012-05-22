@@ -12,7 +12,7 @@ namespace MethodOverload
             string myValue = superSecretFormular("Bob");
             Console.WriteLine(myValue);
 
-            Console.WriteLine(superSecretFormular("Alex","Olenev"));
+            Console.WriteLine(superSecretFormular("Vasiliy","Pupkin"));
 
             Console.WriteLine(superSecretFormular());
 
